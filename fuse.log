@@ -1,0 +1,77 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/MIPS_32bits_tb_isim_beh.exe -prj /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/MIPS_32bits_tb_beh.prj work.MIPS_32bits_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_vector.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_2.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux4_vector.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_descida.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA1bit.vhd" into library work
+WARNING:HDLCompiler:946 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA1bit.vhd" Line 75: Actual for formal port e is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA1bit.vhd" Line 82: Actual for formal port e is neither a static name nor a globally static expression
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/tipo.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_32.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador32bits.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registradores.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux_32_x_32.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_subida.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/DEC.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Ula_completa.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC_ULA.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somadorPC.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_5.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_32down.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memInstrucoes.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memDados.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/BancoReg.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Processador.vhd" into library work
+Parsing VHDL file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/MIPS_32bits_tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 87776 KB
+Fuse CPU Usage: 980 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity flipflopD_subida [flipflopd_subida_default]
+Compiling architecture behavioral of entity ProgramCounter [programcounter_default]
+Compiling architecture behavioral of entity memInstrucoes [meminstrucoes_default]
+Compiling architecture behavioral of entity mux2 [mux2_default]
+Compiling architecture behavioral of entity mux2_5 [mux2_5_default]
+Compiling package tipo
+Compiling architecture behavioral of entity DEC [dec_default]
+Compiling architecture behavioral of entity flipflopD_descida [flipflopd_descida_default]
+Compiling architecture behavioral of entity Registrador [registrador_default]
+Compiling architecture behavioral of entity Registradores [registradores_default]
+Compiling architecture behavioral of entity mux_32_x_32 [mux_32_x_32_default]
+Compiling architecture behavioral of entity BancoReg [bancoreg_default]
+Compiling architecture behavioral of entity UC [uc_default]
+Compiling architecture behavioral of entity mux2_32down [mux2_32down_default]
+Compiling architecture behavioral of entity UC_ULA [uc_ula_default]
+Compiling architecture behavioral of entity mux2_vector [mux2_vector_default]
+Compiling architecture behavioral of entity somador [somador_default]
+Compiling architecture behavioral of entity mux4_vector [mux4_vector_default]
+Compiling architecture behavioral of entity ULA1bit [ula1bit_default]
+Compiling architecture behavioral of entity OR_2 [or_2_default]
+Compiling architecture behavioral of entity OR_32 [or_32_default]
+Compiling architecture behavioral of entity ULA32bits [ula32bits_default]
+Compiling architecture behavioral of entity Ula_completa [ula_completa_default]
+Compiling architecture behavioral of entity memDados [memdados_default]
+Compiling architecture behavioral of entity somador32bits [somador32bits_default]
+Compiling architecture behavioral of entity somadorPc [somadorpc_default]
+Compiling architecture behavioral of entity Processador [processador_default]
+Compiling architecture behavior of entity mips_32bits_tb
+Time Resolution for simulation is 1ps.
+Waiting for 2 sub-compilation(s) to finish...
+Compiled 57 VHDL Units
+Built simulation executable /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/MIPS_32bits_tb_isim_beh.exe
+Fuse Memory Usage: 661552 KB
+Fuse CPU Usage: 1110 ms
+GCC CPU Usage: 1290 ms

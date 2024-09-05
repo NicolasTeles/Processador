@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">52</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">63</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">63</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd</arg>&quot; line <arg fmt="%d" index="2">74</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_subida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd</arg>&quot; line <arg fmt="%d" index="2">51</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Qb</arg>&apos; of component &apos;<arg fmt="%s" index="4">flipflopD_descida</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Ula_completa.vhd</arg>&quot; line <arg fmt="%d" index="2">62</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">resultado_final</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA32bits</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">64</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">77</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">Set</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">90</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">carryOut</arg>&apos; of component &apos;<arg fmt="%s" index="4">ULA1bit</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="753" delta="new" >&quot;<arg fmt="%s" index="1">/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador32bits.vhd</arg>&quot; line <arg fmt="%d" index="2">70</arg>: Unconnected output port &apos;<arg fmt="%s" index="3">cOut</arg>&apos; of component &apos;<arg fmt="%s" index="4">somador</arg>&apos;.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">Endereco&lt;31:10&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">Endereco&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="1781" delta="new" >Signal &lt;<arg fmt="%s" index="1">memoria&lt;12:255&gt;</arg>&gt; is used but never assigned. Tied to default value.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">aluScr</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">regDst</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">memRead</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">branch</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">jump</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">regWrite</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">memToReg</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">memWrite</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">2</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">aluOp</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">primeiroVem1</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">BInverte</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">AInverte</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">2</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">operacao</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="2371" delta="new" >HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">Endereco&lt;31:10&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">Endereco&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">DebugEndereco&lt;31:10&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">DebugEndereco&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">32</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">DadoLido</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+</msg>
+
+<msg type="info" file="Xst" num="1608" delta="new" >Relative priorities of control signals on register &lt;<arg fmt="%s" index="1">estado</arg>&gt; differ from those commonly found in the selected device family. This will result in additional logic around the register.
+</msg>
+
+<msg type="info" file="Xst" num="1608" delta="new" >Relative priorities of control signals on register &lt;<arg fmt="%s" index="1">estado</arg>&gt; differ from those commonly found in the selected device family. This will result in additional logic around the register.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">pulaEndereco</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">primeiroVem1</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsInicio[10].ffd_generate1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsInicio[11].ffd_generate1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlops1[12].flipflops1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlops1[13].flipflops1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[14].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[15].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[16].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[17].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[18].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[19].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[20].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[21].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[22].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[23].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[24].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[25].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[26].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[27].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[28].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[29].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[30].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsfinal[31].ffd_generate2</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">Conexo</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">Ula</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[10].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[11].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[12].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[13].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[14].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[15].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[16].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[17].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[18].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[19].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[20].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[21].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[22].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[23].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[24].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[25].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[26].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[27].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[28].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[29].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[30].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somador31</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[10].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[11].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[12].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[13].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[14].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[15].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[16].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[17].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[18].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[19].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[20].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[21].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[22].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[23].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[24].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[25].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[26].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[27].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[28].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[29].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somadores[30].somadorG</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somador31</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[10].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[11].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[12].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[13].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[14].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[15].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[16].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[17].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[18].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[19].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[20].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[21].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[22].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[23].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[24].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[25].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[26].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[27].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[28].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[29].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[30].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[31].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[0].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[1].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[2].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[3].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[4].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[5].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[6].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[7].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[8].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[9].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[10].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[11].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[12].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[13].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[14].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[15].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[16].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[17].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[18].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[19].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[20].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[21].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsInicio[0].ffd_generate1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">flipFlopsInicio[1].ffd_generate1</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">pc</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somador0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorPC</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">somador0</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">somadorJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[0].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[1].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxBranch</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[30].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">mux2_32[31].mux</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">muxJump</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="new" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_memoria</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">ControleUla/primeiroVem1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsInicio[10].ffd_generate1/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsInicio[11].ffd_generate1/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlops1[12].flipflops1/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlops1[13].flipflops1/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[14].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[15].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[16].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[17].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[18].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[19].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[20].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[21].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[22].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[23].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[24].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[25].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[26].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[27].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[28].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[29].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[30].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsfinal[31].ffd_generate2/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsInicio[0].ffd_generate1/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">pc/flipFlopsInicio[1].ffd_generate1/estado</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Processador</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="new" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

@@ -1,0 +1,1219 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.02 secs
+ 
+--> 
+Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.02 secs
+ 
+--> 
+Reading design: Processador.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "Processador.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "Processador"
+Output Format                      : NGC
+Target Device                      : xc3s1200e-4-fg320
+
+---- Source Options
+Top Module Name                    : Processador
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Multiplier Style                   : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 24
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Yes
+Use Synchronous Set                : Yes
+Use Synchronous Reset              : Yes
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_vector.vhd" in Library work.
+Architecture behavioral of Entity mux2_vector is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_2.vhd" in Library work.
+Architecture behavioral of Entity or_2 is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador.vhd" in Library work.
+Architecture behavioral of Entity somador is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux4_vector.vhd" in Library work.
+Architecture behavioral of Entity mux4_vector is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_descida.vhd" in Library work.
+Architecture behavioral of Entity flipflopd_descida is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA1bit.vhd" in Library work.
+Architecture behavioral of Entity ula1bit is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_32.vhd" in Library work.
+Architecture behavioral of Entity or_32 is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/tipo.vhd" in Library work.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" in Library work.
+Architecture behavioral of Entity registrador is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador32bits.vhd" in Library work.
+Architecture behavioral of Entity somador32bits is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" in Library work.
+Architecture behavioral of Entity ula32bits is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2.vhd" in Library work.
+Architecture behavioral of Entity mux2 is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/DEC.vhd" in Library work.
+Architecture behavioral of Entity dec is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registradores.vhd" in Library work.
+Architecture behavioral of Entity registradores is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux_32_x_32.vhd" in Library work.
+Architecture behavioral of Entity mux_32_x_32 is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_subida.vhd" in Library work.
+Architecture behavioral of Entity flipflopd_subida is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" in Library work.
+Architecture behavioral of Entity programcounter is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memInstrucoes.vhd" in Library work.
+Architecture behavioral of Entity meminstrucoes is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_5.vhd" in Library work.
+Architecture behavioral of Entity mux2_5 is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/BancoReg.vhd" in Library work.
+Architecture behavioral of Entity bancoreg is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC.vhd" in Library work.
+Architecture behavioral of Entity uc is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_32.vhd" in Library work.
+Architecture behavioral of Entity mux2_32 is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC_ULA.vhd" in Library work.
+Architecture behavioral of Entity uc_ula is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Ula_completa.vhd" in Library work.
+Architecture behavioral of Entity ula_completa is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memDados.vhd" in Library work.
+Architecture behavioral of Entity memdados is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somadorPC.vhd" in Library work.
+Architecture behavioral of Entity somadorpc is up to date.
+Compiling vhdl file "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Processador.vhd" in Library work.
+Entity <processador> compiled.
+Entity <Processador> (Architecture <Behavioral>) compiled.
+
+=========================================================================
+*                     Design Hierarchy Analysis                         *
+=========================================================================
+Analyzing hierarchy for entity <Processador> in library <work> (architecture <Behavioral>).
+
+Analyzing hierarchy for entity <ProgramCounter> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <memInstrucoes> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <mux2_5> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <BancoReg> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <UC> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <mux2_32> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <UC_ULA> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <Ula_completa> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <memDados> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <somadorPc> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <somador32bits> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <flipflopD_subida> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <mux2> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <DEC> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <Registradores> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <mux_32_x_32> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <ULA32bits> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <OR_32> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <somador> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <Registrador> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <ULA1bit> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <OR_2> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <flipflopD_descida> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <mux2_vector> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <somador> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <mux4_vector> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <mux2_vector> in library <work> (architecture <behavioral>).
+
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <Processador> in library <work> (Architecture <Behavioral>).
+Entity <Processador> analyzed. Unit <Processador> generated.
+
+Analyzing Entity <ProgramCounter> in library <work> (Architecture <behavioral>).
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 52: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 63: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 63: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd" line 74: Unconnected output port 'Qb' of component 'flipflopD_subida'.
+Entity <ProgramCounter> analyzed. Unit <ProgramCounter> generated.
+
+Analyzing Entity <flipflopD_subida> in library <work> (Architecture <behavioral>).
+Entity <flipflopD_subida> analyzed. Unit <flipflopD_subida> generated.
+
+Analyzing Entity <memInstrucoes> in library <work> (Architecture <behavioral>).
+Entity <memInstrucoes> analyzed. Unit <memInstrucoes> generated.
+
+Analyzing Entity <mux2_5> in library <work> (Architecture <behavioral>).
+Entity <mux2_5> analyzed. Unit <mux2_5> generated.
+
+Analyzing Entity <mux2> in library <work> (Architecture <behavioral>).
+Entity <mux2> analyzed. Unit <mux2> generated.
+
+Analyzing Entity <BancoReg> in library <work> (Architecture <behavioral>).
+Entity <BancoReg> analyzed. Unit <BancoReg> generated.
+
+Analyzing Entity <DEC> in library <work> (Architecture <behavioral>).
+Entity <DEC> analyzed. Unit <DEC> generated.
+
+Analyzing Entity <Registradores> in library <work> (Architecture <behavioral>).
+Entity <Registradores> analyzed. Unit <Registradores> generated.
+
+Analyzing Entity <Registrador> in library <work> (Architecture <behavioral>).
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd" line 51: Unconnected output port 'Qb' of component 'flipflopD_descida'.
+Entity <Registrador> analyzed. Unit <Registrador> generated.
+
+Analyzing Entity <flipflopD_descida> in library <work> (Architecture <behavioral>).
+Entity <flipflopD_descida> analyzed. Unit <flipflopD_descida> generated.
+
+Analyzing Entity <mux_32_x_32> in library <work> (Architecture <behavioral>).
+Entity <mux_32_x_32> analyzed. Unit <mux_32_x_32> generated.
+
+Analyzing Entity <UC> in library <work> (Architecture <behavioral>).
+Entity <UC> analyzed. Unit <UC> generated.
+
+Analyzing Entity <mux2_32> in library <work> (Architecture <behavioral>).
+Entity <mux2_32> analyzed. Unit <mux2_32> generated.
+
+Analyzing Entity <UC_ULA> in library <work> (Architecture <behavioral>).
+Entity <UC_ULA> analyzed. Unit <UC_ULA> generated.
+
+Analyzing Entity <Ula_completa> in library <work> (Architecture <behavioral>).
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Ula_completa.vhd" line 62: Unconnected output port 'resultado_final' of component 'ULA32bits'.
+Entity <Ula_completa> analyzed. Unit <Ula_completa> generated.
+
+Analyzing Entity <ULA32bits> in library <work> (Architecture <behavioral>).
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 64: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 77: Unconnected output port 'Set' of component 'ULA1bit'.
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd" line 90: Unconnected output port 'carryOut' of component 'ULA1bit'.
+Entity <ULA32bits> analyzed. Unit <ULA32bits> generated.
+
+Analyzing Entity <ULA1bit> in library <work> (Architecture <behavioral>).
+Entity <ULA1bit> analyzed. Unit <ULA1bit> generated.
+
+Analyzing Entity <mux2_vector> in library <work> (Architecture <behavioral>).
+Entity <mux2_vector> analyzed. Unit <mux2_vector> generated.
+
+Analyzing Entity <somador> in library <work> (Architecture <behavioral>).
+Entity <somador> analyzed. Unit <somador> generated.
+
+Analyzing Entity <mux4_vector> in library <work> (Architecture <behavioral>).
+Entity <mux4_vector> analyzed. Unit <mux4_vector> generated.
+
+Analyzing Entity <OR_32> in library <work> (Architecture <behavioral>).
+Entity <OR_32> analyzed. Unit <OR_32> generated.
+
+Analyzing Entity <OR_2> in library <work> (Architecture <behavioral>).
+Entity <OR_2> analyzed. Unit <OR_2> generated.
+
+Analyzing Entity <memDados> in library <work> (Architecture <behavioral>).
+Entity <memDados> analyzed. Unit <memDados> generated.
+
+Analyzing Entity <somadorPc> in library <work> (Architecture <behavioral>).
+Entity <somadorPc> analyzed. Unit <somadorPc> generated.
+
+Analyzing Entity <somador32bits> in library <work> (Architecture <behavioral>).
+WARNING:Xst:753 - "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador32bits.vhd" line 70: Unconnected output port 'cOut' of component 'somador'.
+Entity <somador32bits> analyzed. Unit <somador32bits> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Performing bidirectional port resolution...
+
+Synthesizing Unit <memInstrucoes>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memInstrucoes.vhd".
+WARNING:Xst:647 - Input <Endereco<31:10>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:647 - Input <Endereco<1:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:1781 - Signal <memoria<12:255>> is used but never assigned. Tied to default value.
+    Found 256x32-bit ROM for signal <Palavra>.
+    Summary:
+	inferred   1 ROM(s).
+Unit <memInstrucoes> synthesized.
+
+
+Synthesizing Unit <UC>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC.vhd".
+WARNING:Xst:737 - Found 1-bit latch for signal <aluScr>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <regDst>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <memRead>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <branch>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <jump>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <regWrite>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <memToReg>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <memWrite>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 2-bit latch for signal <aluOp>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+Unit <UC> synthesized.
+
+
+Synthesizing Unit <UC_ULA>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC_ULA.vhd".
+WARNING:Xst:737 - Found 1-bit latch for signal <primeiroVem1>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <BInverte>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 1-bit latch for signal <AInverte>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+WARNING:Xst:737 - Found 2-bit latch for signal <operacao>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+    Found 1-bit 3-to-1 multiplexer for signal <AInverte$mux0008>.
+    Found 1-bit 3-to-1 multiplexer for signal <BInverte$mux0008>.
+    Found 1-bit 3-to-1 multiplexer for signal <primeiroVem1$mux0008>.
+    Summary:
+	inferred   3 Multiplexer(s).
+Unit <UC_ULA> synthesized.
+
+
+Synthesizing Unit <memDados>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memDados.vhd".
+WARNING:Xst:647 - Input <Endereco<31:10>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:647 - Input <Endereco<1:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:647 - Input <DebugEndereco<31:10>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:647 - Input <DebugEndereco<1:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+    Found 256x32-bit dual-port RAM <Mram_memoria> for signal <memoria>.
+WARNING:Xst:737 - Found 32-bit latch for signal <DadoLido>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+    Summary:
+	inferred   1 RAM(s).
+Unit <memDados> synthesized.
+
+
+Synthesizing Unit <flipflopD_subida>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_subida.vhd".
+INFO:Xst:1608 - Relative priorities of control signals on register <estado> differ from those commonly found in the selected device family. This will result in additional logic around the register.
+    Found 1-bit register for signal <estado>.
+    Summary:
+	inferred   1 D-type flip-flop(s).
+Unit <flipflopD_subida> synthesized.
+
+
+Synthesizing Unit <mux2>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2.vhd".
+Unit <mux2> synthesized.
+
+
+Synthesizing Unit <DEC>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/DEC.vhd".
+Unit <DEC> synthesized.
+
+
+Synthesizing Unit <mux_32_x_32>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux_32_x_32.vhd".
+    Found 32-bit 32-to-1 multiplexer for signal <saida>.
+    Summary:
+	inferred  32 Multiplexer(s).
+Unit <mux_32_x_32> synthesized.
+
+
+Synthesizing Unit <flipflopD_descida>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_descida.vhd".
+INFO:Xst:1608 - Relative priorities of control signals on register <estado> differ from those commonly found in the selected device family. This will result in additional logic around the register.
+    Found 1-bit register for signal <estado>.
+    Summary:
+	inferred   1 D-type flip-flop(s).
+Unit <flipflopD_descida> synthesized.
+
+
+Synthesizing Unit <mux2_vector>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_vector.vhd".
+Unit <mux2_vector> synthesized.
+
+
+Synthesizing Unit <somador>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador.vhd".
+    Found 1-bit xor3 for signal <Soma>.
+    Summary:
+	inferred   1 Xor(s).
+Unit <somador> synthesized.
+
+
+Synthesizing Unit <OR_2>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_2.vhd".
+Unit <OR_2> synthesized.
+
+
+Synthesizing Unit <ProgramCounter>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd".
+Unit <ProgramCounter> synthesized.
+
+
+Synthesizing Unit <mux2_5>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_5.vhd".
+Unit <mux2_5> synthesized.
+
+
+Synthesizing Unit <mux2_32>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_32.vhd".
+Unit <mux2_32> synthesized.
+
+
+Synthesizing Unit <somador32bits>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador32bits.vhd".
+Unit <somador32bits> synthesized.
+
+
+Synthesizing Unit <Registrador>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd".
+Unit <Registrador> synthesized.
+
+
+Synthesizing Unit <OR_32>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_32.vhd".
+Unit <OR_32> synthesized.
+
+
+Synthesizing Unit <mux4_vector>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux4_vector.vhd".
+Unit <mux4_vector> synthesized.
+
+
+Synthesizing Unit <somadorPc>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somadorPC.vhd".
+Unit <somadorPc> synthesized.
+
+
+Synthesizing Unit <Registradores>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registradores.vhd".
+Unit <Registradores> synthesized.
+
+
+Synthesizing Unit <ULA1bit>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA1bit.vhd".
+Unit <ULA1bit> synthesized.
+
+
+Synthesizing Unit <BancoReg>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/BancoReg.vhd".
+Unit <BancoReg> synthesized.
+
+
+Synthesizing Unit <ULA32bits>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd".
+Unit <ULA32bits> synthesized.
+
+
+Synthesizing Unit <Ula_completa>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Ula_completa.vhd".
+Unit <Ula_completa> synthesized.
+
+
+Synthesizing Unit <Processador>.
+    Related source file is "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Processador.vhd".
+WARNING:Xst:646 - Signal <pulaEndereco> is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+WARNING:Xst:646 - Signal <primeiroVem1> is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+Unit <Processador> synthesized.
+
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# RAMs                                                 : 1
+ 256x32-bit dual-port RAM                              : 1
+# ROMs                                                 : 1
+ 256x32-bit ROM                                        : 1
+# Registers                                            : 1056
+ 1-bit register                                        : 1056
+# Latches                                              : 14
+ 1-bit latch                                           : 11
+ 2-bit latch                                           : 2
+ 32-bit latch                                          : 1
+# Multiplexers                                         : 5
+ 1-bit 3-to-1 multiplexer                              : 3
+ 32-bit 32-to-1 multiplexer                            : 2
+# Xors                                                 : 96
+ 1-bit xor3                                            : 96
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+WARNING:Xst:1290 - Hierarchical block <flipFlopsInicio[10].ffd_generate1> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsInicio[11].ffd_generate1> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlops1[12].flipflops1> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlops1[13].flipflops1> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[14].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[15].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[16].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[17].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[18].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[19].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[20].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[21].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[22].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[23].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[24].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[25].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[26].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[27].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[28].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[29].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[30].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsfinal[31].ffd_generate2> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <Conexo> is unconnected in block <Ula>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[10].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[11].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[12].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[13].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[14].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[15].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[16].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[17].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[18].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[19].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[20].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[21].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[22].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[23].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[24].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[25].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[26].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[27].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[28].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[29].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[30].somadorG> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somador31> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[10].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[11].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[12].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[13].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[14].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[15].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[16].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[17].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[18].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[19].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[20].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[21].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[22].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[23].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[24].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[25].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[26].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[27].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[28].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[29].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somadores[30].somadorG> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somador31> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[10].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[11].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[12].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[13].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[14].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[15].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[16].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[17].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[18].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[19].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[20].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[21].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[22].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[23].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[24].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[25].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[26].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[27].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[28].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[29].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[30].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[31].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[0].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[1].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[2].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[3].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[4].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[5].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[6].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[7].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[8].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[9].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[10].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[11].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[12].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[13].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[14].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[15].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[16].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[17].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[18].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[19].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[20].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[21].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsInicio[0].ffd_generate1> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <flipFlopsInicio[1].ffd_generate1> is unconnected in block <pc>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somador0> is unconnected in block <somadorPC>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <somador0> is unconnected in block <somadorJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[0].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[1].mux> is unconnected in block <muxBranch>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[30].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+WARNING:Xst:1290 - Hierarchical block <mux2_32[31].mux> is unconnected in block <muxJump>.
+   It will be removed from the design.
+
+Synthesizing (advanced) Unit <memDados>.
+INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_memoria> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+    -----------------------------------------------------------------------
+    | ram_type           | Distributed                         |          |
+    -----------------------------------------------------------------------
+    | Port A                                                              |
+    |     aspect ratio   | 256-word x 32-bit                   |          |
+    |     clkA           | connected to signal <Clock>         | rise     |
+    |     weA            | connected to signal <EscreverMem>   | high     |
+    |     addrA          | connected to signal <Endereco>      |          |
+    |     diA            | connected to signal <DadoEscrita>   |          |
+    |     doA            | connected to internal node          |          |
+    -----------------------------------------------------------------------
+    | Port B                                                              |
+    |     aspect ratio   | 256-word x 32-bit                   |          |
+    |     addrB          | connected to signal <DebugEndereco> |          |
+    |     doB            | connected to signal <DebugPalavra>  |          |
+    -----------------------------------------------------------------------
+Unit <memDados> synthesized (advanced).
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# RAMs                                                 : 1
+ 256x32-bit dual-port distributed RAM                  : 1
+# ROMs                                                 : 1
+ 256x32-bit ROM                                        : 1
+# Registers                                            : 1056
+ Flip-Flops                                            : 1056
+# Latches                                              : 14
+ 1-bit latch                                           : 11
+ 2-bit latch                                           : 2
+ 32-bit latch                                          : 1
+# Multiplexers                                         : 5
+ 1-bit 3-to-1 multiplexer                              : 3
+ 32-bit 32-to-1 multiplexer                            : 2
+# Xors                                                 : 96
+ 1-bit xor3                                            : 96
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+
+Optimizing unit <Processador> ...
+
+Optimizing unit <UC> ...
+
+Optimizing unit <UC_ULA> ...
+
+Optimizing unit <ProgramCounter> ...
+
+Optimizing unit <somador32bits> ...
+
+Optimizing unit <Registradores> ...
+
+Optimizing unit <ULA32bits> ...
+WARNING:Xst:2677 - Node <ControleUla/primeiroVem1> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsInicio[10].ffd_generate1/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsInicio[11].ffd_generate1/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlops1[12].flipflops1/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlops1[13].flipflops1/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[14].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[15].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[16].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[17].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[18].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[19].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[20].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[21].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[22].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[23].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[24].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[25].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[26].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[27].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[28].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[29].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[30].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsfinal[31].ffd_generate2/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsInicio[0].ffd_generate1/estado> of sequential type is unconnected in block <Processador>.
+WARNING:Xst:2677 - Node <pc/flipFlopsInicio[1].ffd_generate1/estado> of sequential type is unconnected in block <Processador>.
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block Processador, actual ratio is 19.
+FlipFlop pc/flipFlopsInicio[2].ffd_generate1/estado has been replicated 2 time(s)
+FlipFlop pc/flipFlopsInicio[3].ffd_generate1/estado has been replicated 2 time(s)
+FlipFlop pc/flipFlopsInicio[4].ffd_generate1/estado has been replicated 1 time(s)
+FlipFlop pc/flipFlopsInicio[5].ffd_generate1/estado has been replicated 1 time(s)
+FlipFlop pc/flipFlopsInicio[6].ffd_generate1/estado has been replicated 2 time(s)
+FlipFlop pc/flipFlopsInicio[7].ffd_generate1/estado has been replicated 1 time(s)
+FlipFlop pc/flipFlopsInicio[8].ffd_generate1/estado has been replicated 1 time(s)
+FlipFlop pc/flipFlopsInicio[9].ffd_generate1/estado has been replicated 1 time(s)
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 1043
+ Flip-Flops                                            : 1043
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : Processador.ngr
+Top Level Output File Name         : Processador
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : No
+
+Design Statistics
+# IOs                              : 66
+
+Cell Usage :
+# BELS                             : 3439
+#      GND                         : 1
+#      LUT2                        : 34
+#      LUT2_D                      : 7
+#      LUT2_L                      : 1
+#      LUT3                        : 959
+#      LUT3_D                      : 20
+#      LUT3_L                      : 9
+#      LUT4                        : 1002
+#      LUT4_D                      : 58
+#      LUT4_L                      : 21
+#      MUXCY                       : 9
+#      MUXF5                       : 808
+#      MUXF6                       : 318
+#      MUXF7                       : 159
+#      MUXF8                       : 32
+#      VCC                         : 1
+# FlipFlops/Latches                : 1089
+#      FDCPE                       : 19
+#      FDCPE_1                     : 1024
+#      LD                          : 46
+# RAMS                             : 512
+#      RAM16X1D                    : 512
+# Clock Buffers                    : 2
+#      BUFG                        : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 41
+#      IBUF                        : 9
+#      OBUF                        : 32
+=========================================================================
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 3s1200efg320-4 
+
+ Number of Slices:                     1533  out of   8672    17%  
+ Number of Slice Flip Flops:           1089  out of  17344     6%  
+ Number of 4 input LUTs:               3135  out of  17344    18%  
+    Number used as logic:              2111
+    Number used as RAMs:               1024
+ Number of IOs:                          66
+ Number of bonded IOBs:                  42  out of    250    16%  
+ Number of GCLKs:                         2  out of     24     8%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+TIMING REPORT
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------------------------------------+--------------------------------+-------+
+Clock Signal                                                     | Clock buffer(FF name)          | Load  |
+-----------------------------------------------------------------+--------------------------------+-------+
+Clock                                                            | BUFGP                          | 1555  |
+UnidadeControl/memRead1                                          | BUFG                           | 32    |
+UnidadeControl/aluScr_not0001(UnidadeControl/aluScr_not00011:O)  | NONE(*)(UnidadeControl/aluOp_1)| 3     |
+UnidadeControl/regDst_not0001(UnidadeControl/regDst_not000121:O) | NONE(*)(UnidadeControl/regDst) | 2     |
+UnidadeControl/memRead_not0001(UnidadeControl/memRead_not00011:O)| NONE(*)(UnidadeControl/memRead)| 5     |
+ControleUla/operacao_not0001(ControleUla/operacao_not00012:O)    | NONE(*)(ControleUla/operacao_1)| 2     |
+ControleUla/BInverte_not0001(ControleUla/BInverte_not00011:O)    | NONE(*)(ControleUla/BInverte)  | 2     |
+-----------------------------------------------------------------+--------------------------------+-------+
+(*) These 5 clock signal(s) are generated by combinatorial logic,
+and XST is not able to identify which are the primary clock signals.
+Please use the CLOCK_SIGNAL constraint to specify the clock signal(s) generated by combinatorial logic.
+INFO:Xst:2169 - HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+
+Asynchronous Control Signals Information:
+----------------------------------------
+-----------------------------------+----------------------------------------------------------+-------+
+Control Signal                     | Buffer(FF name)                                          | Load  |
+-----------------------------------+----------------------------------------------------------+-------+
+N0(XST_GND:G)                      | NONE(BancoRegistradores/Reg/Reg0/flipflops[0].ffD/estado)| 2035  |
+N1(XST_VCC:P)                      | NONE(BancoRegistradores/Reg/Reg0/flipflops[0].ffD/estado)| 32    |
+Inicializar                        | IBUF                                                     | 19    |
+-----------------------------------+----------------------------------------------------------+-------+
+
+Timing Summary:
+---------------
+Speed Grade: -4
+
+   Minimum period: 42.463ns (Maximum Frequency: 23.550MHz)
+   Minimum input arrival time before clock: 2.628ns
+   Maximum output required time after clock: 8.159ns
+   Maximum combinational path delay: 9.590ns
+
+Timing Detail:
+--------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'Clock'
+  Clock period: 42.463ns (frequency: 23.550MHz)
+  Total number of paths / destination ports: 478073429 / 5139
+-------------------------------------------------------------------------
+Delay:               21.231ns (Levels of Logic = 17)
+  Source:            pc/flipFlopsInicio[4].ffd_generate1/estado (FF)
+  Destination:       BancoRegistradores/Reg/Reg0/flipflops[23].ffD/estado (FF)
+  Source Clock:      Clock rising
+  Destination Clock: Clock falling
+
+  Data Path: pc/flipFlopsInicio[4].ffd_generate1/estado to BancoRegistradores/Reg/Reg0/flipflops[23].ffD/estado
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDCPE:C->Q           23   0.591   1.281  pc/flipFlopsInicio[4].ffd_generate1/estado (pc/flipFlopsInicio[4].ffd_generate1/estado)
+     LUT4:I1->O            1   0.704   0.000  somador_pc/somadorPC/somadores[6].somadorG/Mxor_Soma_xo<0>11 (somador_pc/somadorPC/somadores[6].somadorG/Mxor_Soma_xo<0>1)
+     MUXF5:I1->O          11   0.321   0.968  somador_pc/somadorPC/somadores[6].somadorG/Mxor_Soma_xo<0>1_f5 (sinalPC4<6>)
+     LUT3_L:I2->LO         1   0.704   0.104  memoriaInstrucoes/Mrom_Palavra112111_SW3_SW0 (N4101)
+     LUT4:I3->O           65   0.704   1.273  memoriaInstrucoes/Mrom_Palavra3911 (sinalInstrucao<19>)
+     MUXF7:S->O            1   0.850   0.000  BancoRegistradores/Mux2/Mmux_saida_3_f7_19 (BancoRegistradores/Mux2/Mmux_saida_3_f720)
+     MUXF8:I1->O          17   0.521   1.055  BancoRegistradores/Mux2/Mmux_saida_2_f8_19 (saida2BancoReg<28>)
+     LUT4:I3->O            7   0.704   0.743  ULA/Ula/ULAs[3].ULAG/MuxBinvert/saida1 (ULA/Ula/ULAs[3].ULAG/valor_b)
+     LUT3:I2->O            1   0.704   0.000  ULA/Ula/ULAs[2].ULAG/somadorULA/cOut1_SW1_G (N10731)
+     MUXF5:I1->O           4   0.321   0.762  ULA/Ula/ULAs[2].ULAG/somadorULA/cOut1_SW1 (N2271)
+     LUT3_D:I0->O          3   0.704   0.535  ULA/Ula/ULAs[3].ULAG/somadorULA/cOut1 (ULA/Ula/carry<3>)
+     LUT4:I3->O            1   0.704   0.000  ULA/Ula/ULAs[9].ULAG/somadorULA/cOut1_F (N1106)
+     MUXF5:I0->O          27   0.321   1.296  ULA/Ula/ULAs[9].ULAG/somadorULA/cOut1 (ULA/Ula/carry<9>)
+     LUT3:I2->O           16   0.704   1.038  ULA/Ula/ULAs[13].ULAG/somadorULA/cOut1 (ULA/Ula/carry<13>)
+     LUT4:I3->O            1   0.704   0.000  ULA/Ula/ULAs[23].ULAG/muxFinal/muxC/saida23_F (N1090)
+     MUXF5:I0->O           1   0.321   0.424  ULA/Ula/ULAs[23].ULAG/muxFinal/muxC/saida23 (ULA/Ula/ULAs[23].ULAG/muxFinal/muxC/saida23)
+     LUT4_D:I3->O          1   0.704   0.455  MuxValor/mux2_32[23].mux/saida1_F (N1198)
+     LUT3:I2->O           16   0.704   0.000  MuxValor/mux2_32[23].mux/saida11 (Resultado_muxValor<23>)
+     FDCPE_1:D                 0.308          BancoRegistradores/Reg/Registradores[15].Reg/flipflops[23].ffD/estado
+    ----------------------------------------
+    Total                     21.231ns (11.298ns logic, 9.933ns route)
+                                       (53.2% logic, 46.8% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'Clock'
+  Total number of paths / destination ports: 2048 / 2048
+-------------------------------------------------------------------------
+Offset:              2.628ns (Levels of Logic = 1)
+  Source:            DebugEndereco<2> (PAD)
+  Destination:       memoriaDados/Mram_memoria1 (RAM)
+  Destination Clock: Clock rising
+
+  Data Path: DebugEndereco<2> to memoriaDados/Mram_memoria1
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O           512   1.218   1.410  DebugEndereco_2_IBUF (DebugEndereco_2_IBUF)
+     RAM16X1D:DPRA0            0.000          memoriaDados/Mram_memoria1
+    ----------------------------------------
+    Total                      2.628ns (1.218ns logic, 1.410ns route)
+                                       (46.3% logic, 53.7% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'Clock'
+  Total number of paths / destination ports: 512 / 32
+-------------------------------------------------------------------------
+Offset:              8.159ns (Levels of Logic = 5)
+  Source:            memoriaDados/Mram_memoria497 (RAM)
+  Destination:       DebugPalavra<31> (PAD)
+  Source Clock:      Clock rising
+
+  Data Path: memoriaDados/Mram_memoria497 to DebugPalavra<31>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     RAM16X1D:WCLK->DPO    1   1.901   0.499  memoriaDados/Mram_memoria497 (N1043)
+     LUT3:I1->O            1   0.704   0.000  inst_LPM_MUX63_8 (inst_LPM_MUX63_8)
+     MUXF5:I0->O           1   0.321   0.000  inst_LPM_MUX63_6_f5 (inst_LPM_MUX63_6_f5)
+     MUXF6:I0->O           1   0.521   0.000  inst_LPM_MUX63_4_f6 (inst_LPM_MUX63_4_f6)
+     MUXF7:I0->O           1   0.521   0.420  inst_LPM_MUX63_2_f7 (DebugPalavra_31_OBUF)
+     OBUF:I->O                 3.272          DebugPalavra_31_OBUF (DebugPalavra<31>)
+    ----------------------------------------
+    Total                      8.159ns (7.240ns logic, 0.919ns route)
+                                       (88.7% logic, 11.3% route)
+
+=========================================================================
+Timing constraint: Default path analysis
+  Total number of paths / destination ports: 2528 / 32
+-------------------------------------------------------------------------
+Delay:               9.590ns (Levels of Logic = 7)
+  Source:            DebugEndereco<2> (PAD)
+  Destination:       DebugPalavra<31> (PAD)
+
+  Data Path: DebugEndereco<2> to DebugPalavra<31>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O           512   1.218   1.410  DebugEndereco_2_IBUF (DebugEndereco_2_IBUF)
+     RAM16X1D:DPRA0->DPO    1   0.704   0.499  memoriaDados/Mram_memoria1 (N51)
+     LUT3:I1->O            1   0.704   0.000  inst_LPM_MUX32_8 (inst_LPM_MUX32_8)
+     MUXF5:I0->O           1   0.321   0.000  inst_LPM_MUX32_6_f5 (inst_LPM_MUX32_6_f5)
+     MUXF6:I0->O           1   0.521   0.000  inst_LPM_MUX32_4_f6 (inst_LPM_MUX32_4_f6)
+     MUXF7:I0->O           1   0.521   0.420  inst_LPM_MUX32_2_f7 (DebugPalavra_0_OBUF)
+     OBUF:I->O                 3.272          DebugPalavra_0_OBUF (DebugPalavra<0>)
+    ----------------------------------------
+    Total                      9.590ns (7.261ns logic, 2.329ns route)
+                                       (75.7% logic, 24.3% route)
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 34.00 secs
+Total CPU time to Xst completion: 33.24 secs
+ 
+--> 
+
+
+Total memory usage is 578240 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :  265 (   0 filtered)
+Number of infos    :   17 (   0 filtered)
+

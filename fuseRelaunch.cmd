@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/MIPS_32bits_tb_isim_beh.exe" -prj "/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/MIPS_32bits_tb_beh.prj" "work.MIPS_32bits_tb" 

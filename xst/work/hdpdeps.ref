@@ -1,0 +1,194 @@
+V3 105
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/BancoReg.vhd 2024/08/20.16:26:31 P.20131013
+EN work/BancoReg 1725305125 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/BancoReg.vhd \
+      PB ieee/std_logic_1164 1381692176 PH work/tipo 1725305102 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/BancoReg/Behavioral 1725305126 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/BancoReg.vhd \
+      EN work/BancoReg 1725305125 CP DEC CP Registradores CP mux_32_x_32
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/DEC.vhd 2024/08/20.13:45:45 P.20131013
+EN work/DEC 1725305111 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/DEC.vhd \
+      PB ieee/std_logic_1164 1381692176 PH work/tipo 1725305102 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/DEC/Behavioral 1725305112 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/DEC.vhd \
+      EN work/DEC 1725305111
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_descida.vhd 2024/08/13.16:04:32 P.20131013
+EN work/flipflopD_descida 1725305096 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_descida.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/flipflopD_descida/Behavioral 1725305097 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_descida.vhd \
+      EN work/flipflopD_descida 1725305096
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_subida.vhd 2024/08/13.16:04:07 P.20131013
+EN work/flipflopD_subida 1725305117 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_subida.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/flipflopD_subida/Behavioral 1725305118 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/flipflopD_subida.vhd \
+      EN work/flipflopD_subida 1725305117
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memDados.vhd 2024/08/28.14:43:53 P.20131013
+EN work/memDados 1725305135 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memDados.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/memDados/Behavioral 1725305136 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memDados.vhd \
+      EN work/memDados 1725305135
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memInstrucoes.vhd 2024/08/28.14:43:55 P.20131013
+EN work/memInstrucoes 1725305121 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memInstrucoes.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/memInstrucoes/Behavioral 1725305122 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/memInstrucoes.vhd \
+      EN work/memInstrucoes 1725305121
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2.vhd 2024/07/16.15:30:28 P.20131013
+EN work/mux2 1725305109 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux2/Behavioral 1725305110 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2.vhd \
+      EN work/mux2 1725305109
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_32.vhd 2024/09/02.16:15:45 P.20131013
+EN work/mux2_32 1725305129 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_32.vhd \
+      PB ieee/std_logic_1164 1381692176 PH work/tipo 1725305102 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/mux2_32/Behavioral 1725305130 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_32.vhd \
+      EN work/mux2_32 1725305129 CP mux2
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_5.vhd 2024/09/02.16:17:07 P.20131013
+EN work/mux2_5 1725305123 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_5.vhd \
+      PB ieee/std_logic_1164 1381692176 PH work/tipo 1725305102 \
+      PB ieee/NUMERIC_STD 1381692181
+AR work/mux2_5/Behavioral 1725305124 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_5.vhd \
+      EN work/mux2_5 1725305123 CP mux2
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_vector.vhd 2024/07/16.16:11:11 P.20131013
+EN work/mux2_vector 1725305088 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_vector.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux2_vector/Behavioral 1725305089 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux2_vector.vhd \
+      EN work/mux2_vector 1725305088
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux4_vector.vhd 2024/07/16.16:24:44 P.20131013
+EN work/mux4_vector 1725305094 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux4_vector.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/mux4_vector/Behavioral 1725305095 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux4_vector.vhd \
+      EN work/mux4_vector 1725305094 CP mux2_vector
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux_32_x_32.vhd 2024/08/13.15:37:51 P.20131013
+EN work/mux_32_x_32 1725305115 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux_32_x_32.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PH work/tipo 1725305102
+AR work/mux_32_x_32/Behavioral 1725305116 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/mux_32_x_32.vhd \
+      EN work/mux_32_x_32 1725305115
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_2.vhd 2024/08/28.15:02:39 P.20131013
+EN work/OR_2 1725305090 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/OR_2/Behavioral 1725305091 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_2.vhd \
+      EN work/OR_2 1725305090
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_32.vhd 2024/08/13.11:58:50 P.20131013
+EN work/OR_32 1725305100 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_32.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/OR_32/Behavioral 1725305101 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/OR_32.vhd \
+      EN work/OR_32 1725305100 CP OR_2
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Processador.vhd 2024/09/02.16:22:32 P.20131013
+EN work/Processador 1725305139 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Processador.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Processador/Behavioral 1725305140 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Processador.vhd \
+      EN work/Processador 1725305139 CP ProgramCounter CP memInstrucoes CP mux2_5 \
+      CP BancoReg CP UC CP mux2_32 CP UC_ULA CP Ula_completa CP memDados CP somadorPC \
+      CP somador32bits
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd 2024/08/28.15:53:00 P.20131013
+EN work/ProgramCounter 1725305119 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ProgramCounter/Behavioral 1725305120 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ProgramCounter.vhd \
+      EN work/ProgramCounter 1725305119 CP flipflopD_subida
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd 2024/08/13.16:25:36 P.20131013
+EN work/Registrador 1725305103 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Registrador/Behavioral 1725305104 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registrador.vhd \
+      EN work/Registrador 1725305103 CP flipflopD_descida
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registradores.vhd 2024/08/14.13:23:04 P.20131013
+EN work/Registradores 1725305113 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registradores.vhd \
+      PB ieee/std_logic_1164 1381692176 PH work/tipo 1725305102
+AR work/Registradores/Behavioral 1725305114 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Registradores.vhd \
+      EN work/Registradores 1725305113 CP Registrador
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador.vhd 2024/07/09.16:48:27 P.20131013
+EN work/somador 1725305092 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/somador/Behavioral 1725305093 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador.vhd \
+      EN work/somador 1725305092
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador32bits.vhd 2024/08/21.14:11:44 P.20131013
+EN work/somador32bits 1725305105 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador32bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/somador32bits/Behavioral 1725305106 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somador32bits.vhd \
+      EN work/somador32bits 1725305105 CP somador
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somadorPC.vhd 2024/08/27.15:44:04 P.20131013
+EN work/somadorPc 1725305137 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somadorPC.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/somadorPc/Behavioral 1725305138 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/somadorPC.vhd \
+      EN work/somadorPc 1725305137 CP somador32bits
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/tipo.vhd 2024/08/13.15:37:53 P.20131013
+PH work/tipo 1725305102 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/tipo.vhd \
+      PB ieee/std_logic_1164 1381692176
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC.vhd 2024/09/02.16:15:45 P.20131013
+EN work/UC 1725305127 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/UC/Behavioral 1725305128 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC.vhd \
+      EN work/UC 1725305127
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC_ULA.vhd 2024/09/02.16:15:45 P.20131013
+EN work/UC_ULA 1725305131 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC_ULA.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/UC_ULA/Behavioral 1725305132 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/UC_ULA.vhd \
+      EN work/UC_ULA 1725305131
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA1bit.vhd 2024/08/06.16:52:57 P.20131013
+EN work/ULA1bit 1725305098 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA1bit.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ULA1bit/Behavioral 1725305099 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA1bit.vhd \
+      EN work/ULA1bit 1725305098 CP mux2_vector CP somador CP mux4_vector
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd 2024/08/28.14:34:46 P.20131013
+EN work/ULA32bits 1725305107 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ULA32bits/Behavioral 1725305108 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/ULA32bits.vhd \
+      EN work/ULA32bits 1725305107 CP ULA1bit CP OR_32
+FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Ula_completa.vhd 2024/08/28.15:44:04 P.20131013
+EN work/Ula_completa 1725305133 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Ula_completa.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Ula_completa/Behavioral 1725305134 \
+      FL /home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Ula_completa.vhd \
+      EN work/Ula_completa 1725305133 CP ULA32bits CP OR_32

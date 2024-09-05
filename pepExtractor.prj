@@ -1,0 +1,7 @@
+work	"BancoReg.vhd"
+work	"DEC.vhd"
+work	"Registrador.vhd"
+work	"Registradores.vhd"
+work	"flipflopD_descida.vhd"
+work	"mux_32_x_32.vhd"
+work	"tipo.vhd"

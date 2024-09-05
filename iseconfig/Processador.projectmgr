@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Processador" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/BancoReg - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|BancoReg.vhd/Reg - Registradores - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/BancoRegistradores - BancoReg - Behavioral/Reg - Registradores - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/MuxUla - mux2_32 - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/MuxValor - mux2_32 - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/ULA - Ula_completa - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/ULA - Ula_completa - Behavioral/OR32 - OR_32 - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/ULA - Ula_completa - Behavioral/Ula - ULA32bits - Behavioral/Conexo - OR_32 - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/ULA - Ula_completa - Behavioral/Ula - ULA32bits - Behavioral/ULA0 - ULA1bit - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/ULA - Ula_completa - Behavioral/Ula - ULA32bits - Behavioral/ULA31 - ULA1bit - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/ULA - Ula_completa - Behavioral/Ula - ULA32bits - Behavioral/ULAG - ULA1bit - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/muxBranch - mux2_32 - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/muxJump - mux2_32 - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/muxReg - mux2_5 - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/pc - ProgramCounter - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/somadorJump - somador32bits - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd/somador_pc - somadorPc - Behavioral</ClosedNode>
+         <ClosedNode>/ProgramCounter - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|ProgramCounter.vhd</ClosedNode>
+         <ClosedNode>/ULA32bits - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|ULA32bits.vhd/Conexo - OR_32 - Behavioral</ClosedNode>
+         <ClosedNode>/ULA32bits - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|ULA32bits.vhd/ULA0 - ULA1bit - Behavioral</ClosedNode>
+         <ClosedNode>/ULA32bits - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|ULA32bits.vhd/ULA31 - ULA1bit - Behavioral</ClosedNode>
+         <ClosedNode>/ULA32bits - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|ULA32bits.vhd/ULAG - ULA1bit - Behavioral</ClosedNode>
+         <ClosedNode>/mux2_32 - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|mux2_32.vhd</ClosedNode>
+         <ClosedNode>/mux2_32to - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|mux2_32.vhd</ClosedNode>
+         <ClosedNode>/mux2_5 - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|mux2_5.vhd</ClosedNode>
+         <ClosedNode>/somadorPc - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|somadorPC.vhd</ClosedNode>
+         <ClosedNode>/somadorPc - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|somadorPC.vhd/somadorPC - somador32bits - Behavioral</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Processador - Behavioral (/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Processador.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000016e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000016e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Processador - Behavioral (/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/Processador.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000176000000010000000100000000000000000000000064ffffffff000000810000000000000001000001760000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000390000000040101000100000000000000000000000064ffffffff000000810000000000000004000000510000000100000000000000290000000100000000000000840000000100000000000002920000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>BancoReg.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000128000000010001000100000000000000000000000064ffffffff000000810000000000000001000001280000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000176000000010000000100000000000000000000000064ffffffff000000810000000000000001000001760000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000014c0000011d01000000060100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/BancoReg - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|BancoReg.vhd</ClosedNode>
+         <ClosedNode>/BancoReg_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|BancoReg_tb.vhd</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/BancoRegistradores - BancoReg - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/MuxUla - mux2_32 - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/MuxValor - mux2_32 - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/ULA - Ula_completa - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/muxBranch - mux2_32 - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/muxJump - mux2_32 - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/muxReg - mux2_5 - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/pc - ProgramCounter - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/somadorJump - somador32bits - Behavioral</ClosedNode>
+         <ClosedNode>/MIPS_32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|MIPS_32bits_tb.vhd/uut - Processador - Behavioral/somador_pc - somadorPc - Behavioral</ClosedNode>
+         <ClosedNode>/Processador - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Processador.vhd</ClosedNode>
+         <ClosedNode>/Registradores_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|Registradores_tb.vhd</ClosedNode>
+         <ClosedNode>/UC_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|UC_tb.vhd</ClosedNode>
+         <ClosedNode>/UC_ula_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|UC_ula_tb.vhd</ClosedNode>
+         <ClosedNode>/ULA32bits_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|ULA32bits_tb.vhd</ClosedNode>
+         <ClosedNode>/ULAcompleta_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|ULAcompleta_tb.vhd</ClosedNode>
+         <ClosedNode>/decod_tb - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|decod_tb.vhd</ClosedNode>
+         <ClosedNode>/mux2_32 - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|mux2_32.vhd</ClosedNode>
+         <ClosedNode>/mux2_32to - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|mux2_32.vhd</ClosedNode>
+         <ClosedNode>/mux2_5 - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|mux2_5.vhd</ClosedNode>
+         <ClosedNode>/somadorPc - Behavioral |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|somadorPC.vhd</ClosedNode>
+         <ClosedNode>/teste - behavior |home|nicolasrmendoncat|nicolasrmendoncat|ISLD|Processador|teste.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>MIPS_32bits_tb - behavior (/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/MIPS_32bits_tb.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000018e000000020000000000000000000000000200000064ffffffff0000008100000003000000020000018e0000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>MIPS_32bits_tb - behavior (/home/nicolasrmendoncat/nicolasrmendoncat/ISLD/Processador/MIPS_32bits_tb.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000176000000010000000100000000000000000000000064ffffffff000000810000000000000001000001760000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ISim Simulator</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000176000000010000000100000000000000000000000064ffffffff000000810000000000000001000001760000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>ISim Simulator</CurrentItem>
+   </ItemView>
+</Project>
